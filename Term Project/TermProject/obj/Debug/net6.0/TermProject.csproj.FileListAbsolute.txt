@@ -1,0 +1,14 @@
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\bin\Debug\net6.0\TermProject.deps.json
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\bin\Debug\net6.0\TermProject.runtimeconfig.json
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\bin\Debug\net6.0\TermProject.dll
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\bin\Debug\net6.0\TermProject.pdb
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.AssemblyInfo.cs
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.dll
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\refint\TermProject.dll
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.pdb
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\TermProject.genruntimeconfig.cache
+C:\Users\isaac\Desktop\CS234N\Term Project\Term Project\TermProject\obj\Debug\net6.0\ref\TermProject.dll

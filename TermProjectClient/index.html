@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark" id="navbar">
+    <div class="container-fluid">
+        <ul class="navbar-nav">
+            <li class="navbar-brand">Brewery Application</li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Pub</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Sales</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="">Shopping List</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Brew
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#">Ingredients</a></li>
+                    <li><a class="dropdown-item" href="#">Containers</a></li>
+                    <li><a class="dropdown-item" href="#">Recipes</a></li>
+                    <li><a class="dropdown-item" href="#">Brew Product</a></li>
+                    <li><a class="dropdown-item" href="#">Brewing Now</a></li>
+                    <li><a class="dropdown-item" href="#">Product Inventory</a></li>
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Admin
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                    <li><a class="dropdown-item" href="#">Manage Employees</a></li>
+                    <li><a class="dropdown-item" href="#">Manage Data</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    </nav>
+
+    <div class="container pt-5">
+        <h1>Shopping List</h1>
+        <h2>Ingredients to Order</h2>
+        <table class="table table-bordered border-dark table-striped table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Ingredient Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Version</th>
+                    <th scope="col">Type</th>
+                    <th scope="col">Reorder</th>
+                    <th scope="col">On Hand</th>
+                    <th scope="col">Scheduled</th>
+                    <th scope="col">Order</th>
+                    <th scope="col">Unit Type</th>
+                    <th scope="col">Cost Per Unit</th>
+                    <th scope="col">Supplier</th>
+                    <th scope="col">Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="col">1</th>
+                    <td>Acid Malt</td>
+                    <td>1</td>
+                    <td>Fermentable</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>.9</td>
+                    <td>.9</td>
+                    <td>LB</td>
+                    <td>10.00</td>
+                    <td><a href="#">Hopsteiner</a></td>
+                    <td><a class="btn btn-primary" href="#" role="button">Details</a></td>
+                </tr>
+                <tr>
+                    <th scope="col">2</th>
+                    <td>Lager Malt</td>
+                    <td>1</td>
+                    <td>Fermentable</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>.9</td>
+                    <td>.9</td>
+                    <td>LB</td>
+                    <td>15.00</td>
+                    <td><a href="#">Hopsteiner</a></td>
+                    <td><a class="btn btn-primary" href="#" role="button">Details</a></td>
+                </tr>
+                <tr>
+                    <th scope="col">3</th>
+                    <td>Lemon</td>
+                    <td>1</td>
+                    <td>Fermentable</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>.9</td>
+                    <td>.9</td>
+                    <td>LB</td>
+                    <td>4.00</td>
+                    <td><a href="#">Hopsteiner</a></td>
+                    <td><a class="btn btn-primary" href="#" role="button">Details</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <button class="btn btn-primary btn-lg" type="button">Create Shopping List</button>
+    </div>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
